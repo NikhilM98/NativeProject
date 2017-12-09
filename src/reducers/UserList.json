@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Nikhil Mehra",
+        "age": "19",
+        "college": "IIT Roorkee",
+        "branch": "Engineering Physics",
+        "home": "Jaipur",
+        "url": "tel:+919116891112",
+        "image": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16387270_1822084528009411_6525403062850068819_n.jpg?oh=cbed5026f1f06c19d4f7fb087d9b1b81&oe=5A6454B3",
+        "description": "none"
+    },
+    {
+        "id": 2,
+        "name": "Shubham Gunawat",
+        "age": "18",
+        "college": "IIT Bombay",
+        "branch": "Engineering Physics",
+        "home": "Jaipur",
+        "url": "tel:+91",
+        "image": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/22282016_916419488513280_7155560536579503365_n.jpg?oh=57717d9dc7516eb988b3970dc6537f1e&oe=5A66F679",
+        "description": "Childish, sassy, lively, hyperactive, envious...and good at judging your negatives and hate them."
+    },
+    {
+        "id": 3,
+        "name": "Alok Singh",
+        "age": "19",
+        "college": "IIT Roorkee",
+        "branch": "Engineering Physics",
+        "home": "Delhi",
+        "url": "tel:+91",
+        "image": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/15284064_904813819618858_2068987840545117988_n.jpg?oh=78d1c4708764a20447177ac76adf5ee2&oe=5AAE2379",
+        "description": "Dope"
+    },
+    {
+        "id": 4,
+        "name": "Anurag Kumar",
+        "age": "20",
+        "college": "IIT Roorkee",
+        "branch": "Engineering Physics",
+        "home": "Bombay",
+        "url": "tel:+91",
+        "image": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/22730092_1848056988557734_2997922094877331211_n.jpg?oh=53a48a8ba95d13d1de44b612b1f574ae&oe=5AAB976C",
+        "description": "Bio is weak , Physics is not"
+    },
+    {
+        "id": 5,
+        "name": "Prashant Verma",
+        "age": "Unknown",
+        "college": "IIT Roorkee",
+        "branch": "Chemical Engineering",
+        "home": "Unknown",
+        "url": "tel:+91",
+        "image": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/18581860_922409157901895_1452368909095410090_n.jpg?oh=c1f72d7486825204f9229b560b246dc1&oe=5AA83F91",
+        "description": "None"
+    },
+    {
+        "id": 6,
+        "name": "Ashish Gupta",
+        "age": "19",
+        "college": "BITS Pilani",
+        "branch": "Economics",
+        "home": "Jaipur",
+        "url": "tel:+91",
+        "image": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/19030501_1081356025341290_7878198653399571490_n.jpg?oh=eac9a8805c5d30857de6479b03956b87&oe=5AA14CBD",
+        "description": "none"
+    },
+    {
+        "id": 7,
+        "name": "Kartikeya Kumar",
+        "age": "5",
+        "college": "IIT Delhi",
+        "branch": "Chemical Engineering",
+        "home": "Jaipur",
+        "url": "tel:+91",
+        "image": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/19905281_321628501612978_3499579233006858601_n.jpg?oh=1057dd4db7d41005e8ec0aafdc93e07c&oe=5A73034F",
+        "description": "Peace Bro"
+    },
+    {
+        "id": 8,
+        "name": "Madhusudan Jilowa",
+        "age": "20",
+        "college": "IIT Roorkee",
+        "branch": "Civil Engineering",
+        "home": "Sikar",
+        "url": "tel:+91",
+        "image": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/21371054_1427433250675427_1354009629941606152_n.jpg?oh=d2e90b1d51f9cd28ea59b969fedb46c6&oe=5AAA4262",
+        "description": "Drifting through spacetime."
+    },
+    {
+        "id": 9,
+        "name": "Mihir Godia",
+        "age": "19",
+        "college": "IIT Madras",
+        "branch": "Aerospace Engineering",
+        "home": "Australia",
+        "url": "tel:+91",
+        "image": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/18813555_10211527804489729_3627252611700736364_n.jpg?oh=1d9bbacbcab2fb4eea96df81368ed966&oe=5A7804D8",
+        "description": "Fuk fuk fuk fuk fuktimaan!!"
+    },
+    {
+        "id": 10,
+        "name": "Bhomik Kankaria",
+        "age": "19",
+        "college": "IIT Tirupati",
+        "branch": "Computer Science",
+        "home": "Jaipur",
+        "url": "tel:+91",
+        "image": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/14938250_190249461429435_1456450587307551606_n.jpg?oh=8481a0a4480373389b1ecb25457ba70d&oe=5AA42403",
+        "description": "Everyone is self centered. It is the radius that matters"
+    },
+]

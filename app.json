@@ -1,0 +1,13 @@
+{
+  "expo": {
+   "name": "User Diary",
+   "version": "1.0.0",
+   "sdkVersion": "21.0.0",
+   "ios": {
+     "bundleIdentifier": "com.nikhilinc.userdiary"
+   },
+   "android": {
+     "package": "com.nikhilinc.userdiary"
+   }
+  }
+}
