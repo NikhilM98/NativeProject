@@ -1,5 +1,15 @@
 import React, { Component } from 'react';
-import { Text, StyleSheet, TouchableWithoutFeedback, View, Image, LayoutAnimation, Linking, UIManager, Platform } from 'react-native';
+import {
+    Text,
+    StyleSheet,
+    TouchableWithoutFeedback,
+    View,
+    Image,
+    LayoutAnimation,
+    Linking,
+    UIManager,
+    Platform
+} from 'react-native';
 import { connect } from 'react-redux';
 import CardSection from './CardSection';
 import Button from './Button';
